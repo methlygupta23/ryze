@@ -4,7 +4,7 @@ A modern web application built with cutting-edge technologies.
 
 ## 🚀 Live Demo
 
-Visit the live application: [ryze-weld.vercel.app]((https://ryze-s3qi.vercel.app/))
+Visit the live application: [ryze-weld.vercel.app]([(https://ryze-s3qi.vercel.app/)](https://ryze-s3qi.vercel.app/))
 
 ## 📋 Table of Contents
 
